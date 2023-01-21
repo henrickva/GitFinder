@@ -1,0 +1,25 @@
+.main input {
+    margin: 10px 5px;
+    padding: 10px;
+    width: 50%;
+    border-radius: 6px;
+    border: none;
+}
+
+.main button {
+    background-color: #2a9d8f;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.main button:hover{
+    background-color: #264653;
+    color: white;
+}
+
+.main button:focus, input:focus, select:focus{
+    border: 0 none;
+    outline: 0;
+}

@@ -1,0 +1,25 @@
+.user img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.location{
+    padding-right: 8px;
+}
+
+.user a{
+    margin-top: 100px;
+    border: solid 2px #0E2A47 ;
+    border-radius: 6px;
+    padding: 8px;
+    background-color: white;
+    color: #0E2A47;
+    text-decoration: none;
+}
+
+.user a:hover{
+    border: solid 2px white;
+    background-color: #0E2A47;
+    color: white;
+}
